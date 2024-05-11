@@ -5,7 +5,7 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
 
-username="admin"
+username="debian19"
 password="administrator999"
 
 useradd -m -s /bin/bash "$username"
